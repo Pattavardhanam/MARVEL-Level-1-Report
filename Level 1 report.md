@@ -38,7 +38,8 @@ This task was by far the most difficult and understading forms took a while. Enc
 
 ### Organic Design using Forms
 Designed a vase using forms in Fusion 360
-![]()
+![Vase](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase.png?raw=true)
+![Vase 2](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase%20Render.PNG?raw=true)
 
 ## 3D printing
 
