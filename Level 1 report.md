@@ -37,7 +37,7 @@ This task was by far the most difficult and understading forms took a while. Enc
 ### Sheet Metal
 Fusion 360's Sheet Metal tools allow you to design objects specifically for manufacturing from sheet metal. You start with a flat sketch defining the part's outline, then bend and manipulate that form using tools like Flanges. The software considers factors like bend radius and material thickness to ensure your design can be realistically created.  This lets you create a 3D model while also getting a flat pattern for fabrication, streamlining the sheet metal design process.
 Designed and created a post box for MARVEL using the Sheet Metal tool in Fusion 360
-![PO1]()
+![PO](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Collage%20PO.jpeg?raw=true)
 ### Organic Design using Forms
 Designed a vase using forms in Fusion 360
 ![Vase](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase.png?raw=true)
