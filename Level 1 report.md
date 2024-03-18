@@ -5,7 +5,7 @@ I made myself familiar with the basic definitions of CAD, CAED, etc., with the h
 
 ## TASK: 2D Drawing sheet
 
-## TASK: 3D Drawing in Fusion 360
+## TASK: 2D Drawing in Fusion 360
 I understood the basic drawing environment of Fusion 360, experimented with a couple of drawings as part of YouTube Tutorials and made the drawings required as part of the assigned coursework. The drawings are as shown below
 ![DF1](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Drawing%201%20Fusion.png?raw=true)
 ![DF2](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Drawing%202%20Fusion.png?raw=true)
@@ -35,7 +35,13 @@ This task was by far the most difficult and understading forms took a while. Enc
 ![TP](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/TP.JPEG?raw=true)
 
 ### Sheet Metal
-
+Designed and created a post box for MARVEL using the Sheet Metal tool in Fusion 360
+![PO1](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Front.png?raw=true)
+![PO2](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Back.png?raw=true)
+![PO3](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Side.png?raw=true)
+![PO4](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Side%202.png?raw=true)
+![PO5](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/3D%201.png?raw=true)
+![PO6](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/3D%202.png?raw=true)
 ### Organic Design using Forms
 Designed a vase using forms in Fusion 360
 ![Vase](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase.png?raw=true)
