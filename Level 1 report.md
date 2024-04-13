@@ -90,7 +90,7 @@ Learnt about the working of the N-Channel MOSFET from the resource link provided
 [Link to the TinkerCAD simulation](https://www.tinkercad.com/things/hocUCwL9ike-nmos)
 
 ## Logic design:
-I had learnt binary addition using 1's compliment and 2's compliment in 2nd PU. I learnt how full adders and 2x1 MUXs work. Using XOR gate, NOT gate(To give XNOR values), AND gate and OR Gate I designed a full adder circuit.
+I had learnt binary addition and binary number representation using 1's complement and 2's complement in 2nd PU. I learnt how full adders and 2x1 MUXs work. Using XOR gate, NOT gate(To give XNOR values), AND gate and OR Gate I designed a full adder circuit.
 This is the implementation of the same:
 ![FAI](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Full%20Adder%20Implementation.png?raw=true)
 ![Full Adder](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Full%20adder%20GIF.gif?raw=true)
