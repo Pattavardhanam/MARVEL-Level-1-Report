@@ -97,7 +97,7 @@ This is the implementation of the same:
 This is the simulation of the adder circuit. [The link to the adder simuation](https://circuitverse.org/users/235959/projects/full-adder-using-mux-f6b940c1-7610-4385-b890-ccf287be4230)
 I then made a 4-bit binary additon circuit using 4 full adders using 2x1 MUX(Read the numbers from right to left):
 [The link to the 4-bit adder simuation](https://circuitverse.org/users/235959/projects/4-bit-binary-adder-using-mux)
-The top row of numbers is the first number in the sum. The second one row is the second number. This example illustrates the addition of 3 and 2. (Read from the right and written left to right) 0011+0010=0101. 0101 is 5
+The top row of numbers is the first number in the sum. The second row is the second number. This example illustrates the addition of 3 and 2. (Read from the right and written left to right) 0011+0010=0101. 0101 is 5
 ![4-bit Adder](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/4-bit%20adder.png?raw=true)
 
 
