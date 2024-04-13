@@ -62,8 +62,8 @@ Designed and created a post box for MARVEL using the Sheet Metal tool in Fusion 
 ### Organic Design using Forms
 Fusion 360's forms act like digital clay for sculpting organic shapes. Forget rigid lines - create fluid curves with T-splines. Push, pull, and refine surfaces to achieve complex forms. Unlike solids, forms embrace overlaps, letting you explore freely before refining your design into a masterpiece.
 Designed a vase using forms in Fusion 360
-![Vase](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase.png?raw=true)
 ![Vase 2](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase%20Render.PNG?raw=true)
+![Vase](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase.png?raw=true)
 
 ## 3D printing
 From digital dream to tangible reality, 3D printing brings ideas to life. Layer by layer, molten plastic or powdered metal builds intricate objects. Complex designs become reality, defying limitations of traditional manufacturing. 3D printing empowers creators, engineers, and dreamers to hold the future in their hands.
@@ -95,8 +95,9 @@ This is the implementation of the same:
 ![FAI](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Full%20Adder%20Implementation.png?raw=true)
 ![Full Adder](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Full%20adder%20GIF.gif?raw=true)
 This is the simulation of the adder circuit. [The link to the adder simuation](https://circuitverse.org/users/235959/projects/full-adder-using-mux-f6b940c1-7610-4385-b890-ccf287be4230)
-I then made a 4-bit binary additon circuit using 4 full adders using 2x1 MUX:
+I then made a 4-bit binary additon circuit using 4 full adders using 2x1 MUX(Read the numbers from right to left):
 [The link to the 4-bit adder simuation](https://circuitverse.org/users/235959/projects/4-bit-binary-adder-using-mux)
+The top row of numbers is the first number in the sum. The second one row is the second number. This example illustrates the addition of 3 and 2. (Read from the right and written left to right) 0011+0010=0101. 0101 is 5
 ![4-bit Adder](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/4-bit%20adder.png?raw=true)
 
 
