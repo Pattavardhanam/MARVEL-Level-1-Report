@@ -60,7 +60,7 @@ Fusion 360's Sheet Metal tools allow you to design objects specifically for manu
 Designed and created a post box for MARVEL using the Sheet Metal tool in Fusion 360
 ![PO](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Collage%20PO%20new%20-%20Copy.jpeg?raw=true)
 ### Organic Design using Forms
-Fusion 360's forms act like digital clay for sculpting organic shapes. Forget rigid lines - create fluid curves with T-splines. Push, pull, and refine surfaces to achieve complex forms. Unlike solids, forms embrace overlaps, letting you explore freely before refining your design into a masterpiece.
+Fusion 360's forms act like digital clay for sculpting organic shapes. Forms embrace overlaps, letting you explore freely before refining your design into a masterpiece.
 Designed a vase using forms in Fusion 360
 ![Vase 2](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase%20Render.PNG?raw=true)
 ![Vase](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/Vase.png?raw=true)
