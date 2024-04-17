@@ -86,7 +86,7 @@ Then I used tinkercad to simulate the design.
 ## N-Channel MOSFET
 N-channel MOSFETs are tiny switches controlled by voltage, not touch. Electrons flow when a positive voltage opens a channel between the drain and source. Imagine a water channel controlled by an electric field. Perfect for low-power circuits, N-channel MOSFETs are workhorses in electronics, from phones to computers.
 Learnt about the working of the N-Channel MOSFET from the resource link provided and made a basic design on TinkerCAD.
-![NMOS ON](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/NMOS%20ON.png?raw=true)
+![NMOS](https://github.com/Pattavardhanam/MARVEL-Level-1-Report/blob/main/Pics/NMOS%20GIF.gif?raw=true)
 [Link to the TinkerCAD simulation](https://www.tinkercad.com/things/hocUCwL9ike-nmos)
 
 ## Logic design:
